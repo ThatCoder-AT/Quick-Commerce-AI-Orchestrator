@@ -187,17 +187,17 @@ Verify installation:
 ollama list
 ```
 
-Pull at least one model:
+Download/Run at least one model:
 
 ```bash
-ollama pull gemma3:4b
+ollama run gemma4:e2b
 ```
 
 Example supported models:
 
 ```bash
-gemma3:4b
-gemma3:12b
+gemma4:e4b
+gemma4:12b
 llama3
 mistral
 qwen3
