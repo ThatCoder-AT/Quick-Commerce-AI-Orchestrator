@@ -310,12 +310,6 @@ set TELEGRAM_BOT_TOKEN=YOUR_TOKEN
 
 # 🚀 Running The System
 
-Start Ollama:
-
-```bash
-ollama serve
-```
-
 Launch the application:
 
 ```bash
