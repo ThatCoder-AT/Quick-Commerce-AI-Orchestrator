@@ -220,9 +220,9 @@ Save your Bot Token.
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/qcomm-ai-orchestrator.git
+git clone https://github.com/ThatCoder-AT/Quick-Commerce-AI-Orchestrator.git
 
-cd qcomm-ai-orchestrator
+cd Quick-Commerce-AI-Orchestrator
 ```
 
 ---
